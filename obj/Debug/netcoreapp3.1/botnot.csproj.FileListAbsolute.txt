@@ -1,0 +1,13 @@
+C:\Users\skulla\Desktop\botnot\bin\Debug\netcoreapp3.1\botnot.exe
+C:\Users\skulla\Desktop\botnot\bin\Debug\netcoreapp3.1\botnot.deps.json
+C:\Users\skulla\Desktop\botnot\bin\Debug\netcoreapp3.1\botnot.runtimeconfig.json
+C:\Users\skulla\Desktop\botnot\bin\Debug\netcoreapp3.1\botnot.runtimeconfig.dev.json
+C:\Users\skulla\Desktop\botnot\bin\Debug\netcoreapp3.1\botnot.dll
+C:\Users\skulla\Desktop\botnot\bin\Debug\netcoreapp3.1\botnot.pdb
+C:\Users\skulla\Desktop\botnot\obj\Debug\netcoreapp3.1\botnot.csprojAssemblyReference.cache
+C:\Users\skulla\Desktop\botnot\obj\Debug\netcoreapp3.1\botnot.AssemblyInfoInputs.cache
+C:\Users\skulla\Desktop\botnot\obj\Debug\netcoreapp3.1\botnot.AssemblyInfo.cs
+C:\Users\skulla\Desktop\botnot\obj\Debug\netcoreapp3.1\botnot.csproj.CoreCompileInputs.cache
+C:\Users\skulla\Desktop\botnot\obj\Debug\netcoreapp3.1\botnot.dll
+C:\Users\skulla\Desktop\botnot\obj\Debug\netcoreapp3.1\botnot.pdb
+C:\Users\skulla\Desktop\botnot\obj\Debug\netcoreapp3.1\botnot.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.exe
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.deps.json
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.json
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.dev.json
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.dll
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.pdb
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.dll
+C:\Users\skulla\Desktop\botnot\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.pdb
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csprojAssemblyReference.cache
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfoInputs.cache
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfo.cs
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CopyComplete
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.dll
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.pdb
+C:\Users\skulla\Desktop\botnot\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.genruntimeconfig.cache

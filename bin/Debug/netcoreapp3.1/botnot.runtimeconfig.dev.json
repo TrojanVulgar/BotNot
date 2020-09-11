@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\skulla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\skulla\\.nuget\\packages"
+    ]
+  }
+}
